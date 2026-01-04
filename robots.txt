@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbai.dev/sitemap.xml
