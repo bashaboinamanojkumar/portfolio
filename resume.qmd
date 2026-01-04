@@ -1,0 +1,19 @@
+---
+title: "Resume"
+---
+
+<iframe width="100%" height="800" src="assets/ManojKumarBashaboina117.pdf"></iframe>
+
+[Download Resume (PDF)](assets/ManojKumarBashaboina117.pdf){.btn .btn-outline-primary}
+
+## Education
+**University of Maryland, College Park** | [cite_start]Master of Data Science 
+*GPA: 3.9/4.0 | [cite_start]Graduating May 2026* [cite: 13, 14]
+
+**Vasavi College of Engineering** | B.Tech in Information Technology [cite: 6, 7]
+*GPA: 8.35/10 | [cite_start]May 2023* [cite: 15, 16]
+
+## [cite_start]Technical Skills [cite: 25, 26]
+* **Languages:** Python, Java, C, SQL, JavaScript.
+* **Cloud & DevOps:** AWS (EC2, S3, SQS), Docker, CI/CD, Git.
+* **AI/ML:** LLMs, RAG, TensorFlow, PyTorch, Scikit-Learn.

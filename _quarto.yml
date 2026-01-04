@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Manoj Kumar Bashaboina"
+  description: "Data Science Master's Candidate specializing in Quantum Finance & GenAI."
+  navbar:
+    background: primary
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/manojkumarbashaboina
+      - icon: github
+        href: https://github.com/bashaboinamanojkumar 
+      - icon: envelope
+        href: "mailto:manoj7@umd.edu"
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    code-copy: true
+    mainfont: "Inter"

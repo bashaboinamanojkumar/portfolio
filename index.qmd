@@ -1,0 +1,26 @@
+---
+title: "Manoj Kumar Bashaboina"
+image: assets/profile.jpg # (Optional: Add a photo of yourself here later)
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/manojkumarbashaboina
+    - icon: github
+      text: Github
+      href: https://github.com/bashaboinamanojkumar
+---
+
+## Data Scientist | Quantum Finance Researcher | AI Engineer
+
+[cite_start]I am a Master of Data Science candidate at the **University of Maryland, College Park**, bridging the gap between advanced machine learning and financial engineering.
+
+[cite_start]Currently, I am a Graduate Researcher working on **Quantum-Classical hybrid frameworks** for portfolio optimization [cite: 10, 23] [cite_start]and building **RAG-based LLM systems** for financial insights[cite: 28, 30].
+
+### Specialized Technical Stack
+* [cite_start]**GenAI:** LLMs, RAG, Ollama, LLaMA3, LangChain[cite: 26, 30].
+* [cite_start]**Finance:** Black-Litterman, VaR/CVaR, S&P 500 Optimization[cite: 21, 22].
+* [cite_start]**Infrastructure:** AWS (EC2, S3), Docker, CI/CD[cite: 25].
+
+[View My Projects](projects/index.qmd){.btn .btn-primary}

@@ -1,0 +1,23 @@
+---
+title: "RAG-Based Bitcoin Analysis Chatbot"
+description: "A real-time crypto analytics bot using Ollama, LLaMA3, and Docker."
+date: 2025-05-01
+categories: [GenAI, NLP, Docker, Finance]
+image: image.jpg # (Add a screenshot of your chatbot later)
+---
+
+## Overview
+This project integrates Large Language Models (LLMs) with real-time financial data to provide actionable crypto insights. [cite_start]Unlike standard chatbots, this system utilizes a **Retrieval-Augmented Generation (RAG)** framework to ground answers in live market data[cite: 30].
+
+## Technical Architecture
+* [cite_start]**Model:** LLaMA3 served via Ollama[cite: 30].
+* [cite_start]**Vector Database:** FAISS for vector retrieval using nomic-embed-text embeddings[cite: 32].
+* [cite_start]**Data Pipeline:** Aggregates real-time prices (CoinGecko API) and news (NewsAPI)[cite: 31].
+* [cite_start]**Deployment:** Fully containerized Streamlit application using **Docker**[cite: 33].
+
+## Key Features
+1.  [cite_start]**Sentiment Analysis:** Applies NLTK to financial news to gauge market sentiment[cite: 31].
+2.  [cite_start]**Technical Indicators:** Auto-calculates RSI, MACD, and Bollinger Bands[cite: 31].
+3.  [cite_start]**Forecasting:** Integrated TensorFlow/Keras LSTM for short-term price prediction[cite: 32].
+
+*(Note: Add code snippets or GitHub links here)*

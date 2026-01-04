@@ -1,0 +1,18 @@
+---
+title: "Hybrid Quantum-Classical Portfolio Optimization"
+description: "Optimizing S&P 500 returns using LightGBM and Quantum Approximate Optimization."
+date: 2024-08-01
+categories: [Quantum Computing, Machine Learning, Finance, Python]
+---
+
+## Research Overview
+As a Graduate Researcher, I developed a system to optimize portfolios for S&P 500 stocks. [cite_start]The system processes over **750k+ rows of data**, reducing reload times by 5x using Parquet caching[cite: 20].
+
+## Methodologies
+* [cite_start]**Machine Learning:** Utilized **LightGBM** on momentum and NLP sentiment data to predict expected returns[cite: 21].
+* [cite_start]**Risk Management:** Implemented Black-Litterman models and Mean-CVaR optimization[cite: 21, 22].
+* [cite_start]**Quantum Extension:** Extended the framework to use **VQE and QUBO** (Quantum Unconstrained Binary Optimization) for accelerated estimation[cite: 23].
+
+## Results
+* [cite_start]Achieved a **20% reduction in downside risk** in backtests[cite: 22].
+* [cite_start]Maintained a Sharpe ratio > 1 through walk-forward validation[cite: 22].
