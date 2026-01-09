@@ -4,16 +4,47 @@ title: "Resume"
 
 <iframe width="100%" height="800" src="assets/ManojKumarBashaboina117.pdf"></iframe>
 
-[Download Resume (PDF)](assets/ManojKumarBashaboina117.pdf){.btn .btn-outline-primary}
+<div class="text-center" style="margin: 2rem 0;">
+  [Download Resume (PDF)](assets/ManojKumarBashaboina117.pdf){.btn .btn-outline-primary}
+</div>
+
+## Experience
+
+<div class="experience-item">
+  <div class="experience-header">
+    <div class="experience-role">Data Science and Technology Intern</div>
+    <div class="experience-date">Jul 2025 - Aug 2025</div>
+  </div>
+  <div class="experience-company">Connyct · Internship</div>
+  <div class="experience-location">College Park, Maryland, United States · Remote</div>
+  <ul class="experience-details">
+    <li>Built automated web-scraping pipelines in Python (BeautifulSoup, Selenium) to extract and structure data from diverse campus websites.</li>
+    <li>Automated data ingestion with scheduling, logging, and error handling to ensure reliable, repeatable collection.</li>
+    <li>Developed preprocessing workflows for data cleaning, normalization, and schema alignment, producing analysis-ready datasets for downstream analytics.</li>
+  </ul>
+</div>
 
 ## Education
-**University of Maryland, College Park** | [cite_start]Master of Data Science 
-*GPA: 3.9/4.0 | [cite_start]Graduating May 2026* [cite: 13, 14]
 
-**Vasavi College of Engineering** | B.Tech in Information Technology [cite: 6, 7]
-*GPA: 8.35/10 | [cite_start]May 2023* [cite: 15, 16]
+<div class="experience-item">
+  <div class="experience-header">
+    <div class="experience-role">Master of Data Science</div>
+    <div class="experience-date">Graduating May 2026</div>
+  </div>
+  <div class="experience-company">University of Maryland, College Park</div>
+  <div class="experience-location">GPA: 3.9/4.0</div>
+</div>
 
-## [cite_start]Technical Skills [cite: 25, 26]
+<div class="experience-item">
+  <div class="experience-header">
+    <div class="experience-role">B.Tech in Information Technology</div>
+    <div class="experience-date">May 2023</div>
+  </div>
+  <div class="experience-company">Vasavi College of Engineering</div>
+  <div class="experience-location">GPA: 8.35/10</div>
+</div>
+
+## Technical Skills
 * **Languages:** Python, Java, C, SQL, JavaScript.
 * **Cloud & DevOps:** AWS (EC2, S3, SQS), Docker, CI/CD, Git.
 * **AI/ML:** LLMs, RAG, TensorFlow, PyTorch, Scikit-Learn.

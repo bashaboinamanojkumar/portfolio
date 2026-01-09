@@ -1,5 +1,6 @@
 ---
 title: "Manoj Kumar Bashaboina"
+
 image: assets/profile.jpg # (Optional: Add a photo of yourself here later)
 about:
   template: jolla
@@ -14,13 +15,33 @@ about:
 
 ## Data Scientist | Quantum Finance Researcher | AI Engineer
 
-[cite_start]I am a Master of Data Science candidate at the **University of Maryland, College Park**, bridging the gap between advanced machine learning and financial engineering.
+I am a Master of Data Science candidate at the **University of Maryland, College Park**, bridging the gap between advanced machine learning and financial engineering.
 
-[cite_start]Currently, I am a Graduate Researcher working on **Quantum-Classical hybrid frameworks** for portfolio optimization [cite: 10, 23] [cite_start]and building **RAG-based LLM systems** for financial insights[cite: 28, 30].
-
+Currently, I am a Graduate Researcher working on **Quantum-Classical hybrid frameworks** for portfolio optimization and building **RAG-based LLM systems** for financial insights
 ### Specialized Technical Stack
-* [cite_start]**GenAI:** LLMs, RAG, Ollama, LLaMA3, LangChain[cite: 26, 30].
-* [cite_start]**Finance:** Black-Litterman, VaR/CVaR, S&P 500 Optimization[cite: 21, 22].
-* [cite_start]**Infrastructure:** AWS (EC2, S3), Docker, CI/CD[cite: 25].
+* **GenAI:** LLMs, RAG, Ollama, LLaMA3, LangChain.
+* **Finance:** Black-Litterman, VaR/CVaR, S&P 500 Optimization.
+* **Infrastructure:** AWS (EC2, S3), Docker, CI/CD.
+
+## Experience
+
+<div class="experience-item">
+
+<div class="experience-header">
+  <span class="experience-role">Data Science & Technology Intern</span>
+  <span class="experience-date">Jul 2025 – Aug 2025</span>
+</div>
+
+<span class="experience-company">Connyct · Internship</span>  
+<span class="experience-location">Remote — College Park, MD</span>
+
+<ul class="experience-details">
+  <li>Designed and deployed automated web-scraping pipelines using Python, BeautifulSoup, and Selenium to extract structured data from heterogeneous campus web sources.</li>
+  <li>Built reliable ingestion workflows with scheduling, logging, and fault-tolerant error handling.</li>
+  <li>Implemented preprocessing pipelines for data cleaning, normalization, and schema alignment.</li>
+</ul>
+
+</div>
+
 
 [View My Projects](projects/index.qmd){.btn .btn-primary}

@@ -1,5 +1,41 @@
 ---
-title: "About"
+title: "About Me"
+sidebar: false
 ---
 
-About this site
+## Education
+
+**University of Maryland, College Park** | College Park, MD  
+*Master of Data Science* | Exp. May 2026  
+* [cite_start]**GPA:** 3.9/4.0 [cite: 14]
+* **Key Coursework:** Machine Learning, Data Systems, Financial Analytics.
+
+**Vasavi College of Engineering** | Hyderabad, India  
+*Bachelor of Technology in Information Technology* | May 2023  
+* [cite_start]**GPA:** 8.35/10 [cite: 16]
+
+---
+
+## Professional Experience
+
+### **Graduate Researcher (Quantum Finance)**
+**University of Maryland / Do Quantum** | [cite_start]*Aug 2024 – Present* [cite: 10, 11]
+
+* [cite_start]Developing a **portfolio optimization system** for S&P 500 stocks, processing **750k+ rows** of data with custom Parquet caching[cite: 20].
+* [cite_start]Implementing **Mean-CVaR optimization** with `cvxpy` and integrating **Black-Litterman** models for stable estimates[cite: 21, 22].
+* [cite_start]Extending work to a **hybrid quantum-classical framework** using QAE and VQE algorithms[cite: 23].
+
+### **Data Science Intern**
+**Connyct** | [cite_start]*Jul 2025 – Aug 2025* [cite: 47]
+
+* Designed automated web-scraping pipelines using Python and Selenium.
+* Built reliable ingestion workflows with fault-tolerant error handling.
+
+---
+
+## Technical Skills
+
+* **Languages:** Python, R, SQL, Java, C.
+* **Machine Learning:** LightGBM, XGBoost, YOLOv8, TensorFlow/Keras.
+* **GenAI Stack:** Ollama, LLaMA3, LangChain, FAISS, Nomic Embeddings.
+* **Tools:** Docker, AWS (EC2, S3), Git, Tableau.

@@ -31,3 +31,4 @@ format:
     toc: true
     code-copy: true
     mainfont: "Inter"
+    smooth-scroll: true
